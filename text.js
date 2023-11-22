@@ -25,6 +25,17 @@ function show(event){
 
 
 
+  
+
+
+
+
+
+
+
+
+
+      
   const pics=document.getElementsByClassName('pics');
       
    
@@ -62,7 +73,7 @@ function showPics3(){
 
     
 
-lightblue.addEventListener("click", lightbluePicture);
+Lightblue.addEventListener("click", lightbluePicture);
     function lightbluePicture(){
       
       const pic=document.getElementById("pic");
@@ -188,7 +199,6 @@ for(let i=0;  i<pics.length;  i++){
   }
   }
   
-
 
 
 
