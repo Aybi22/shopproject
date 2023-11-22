@@ -25,17 +25,6 @@ function show(event){
 
 
 
-  
-
-
-
-
-
-
-
-
-
-      
   const pics=document.getElementsByClassName('pics');
       
    
