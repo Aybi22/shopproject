@@ -62,7 +62,7 @@ function showPics3(){
 
     
 
-Lightblue.addEventListener("click", lightbluePicture);
+lightblue.addEventListener("click", lightbluePicture);
     function lightbluePicture(){
       
       const pic=document.getElementById("pic");
